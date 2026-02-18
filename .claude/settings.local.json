@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Users\\\\Simon\\\\Desktop\\\\cuda-kanerva-sdm\\\\kanerva_sdm.cu\")",
+      "Bash(del \"c:\\\\Users\\\\Simon\\\\Desktop\\\\cuda-kanerva-sdm\\\\kanerva_sdm_kernels.cu\")",
+      "Bash(del \"c:\\\\Users\\\\Simon\\\\Desktop\\\\cuda-kanerva-sdm\\\\kanerva_sdm_wrapper.h\")",
+      "Bash(del \"c:\\\\Users\\\\Simon\\\\Desktop\\\\cuda-kanerva-sdm\\\\kanerva_sdm_wrapper.cpp\")",
+      "Bash(del \"c:\\\\Users\\\\Simon\\\\Desktop\\\\cuda-kanerva-sdm\\\\main.cpp\")"
+    ]
+  }
+}

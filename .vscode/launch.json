@@ -1,0 +1,14 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Run CUDA Kanerva SDM",
+			"type": "cppvsdbg",
+			"request": "launch",
+			"program": "${workspaceFolder}/build/Debug/kanerva_sdm_cuda.exe",
+			"args": [],
+			"cwd": "${workspaceFolder}",
+			"preLaunchTask": "CMake Build"
+		}
+	]
+}
