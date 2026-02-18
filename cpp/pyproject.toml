@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel", "pybind11>=2.6.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sdm_cpp"
+version = "0.1.0"
+description = "C++ implementation of Sparse Distributed Memory with Python bindings"
+requires-python = ">=3.8"
+dependencies = [
+    "pybind11>=2.6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "numpy>=1.20",
+]

@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/bindings.cpp
+src/sdm_cpp.egg-info/PKG-INFO
+src/sdm_cpp.egg-info/SOURCES.txt
+src/sdm_cpp.egg-info/dependency_links.txt
+src/sdm_cpp.egg-info/requires.txt
+src/sdm_cpp.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: sdm_cpp
+Version: 0.1.0
+Summary: C++ implementation of Sparse Distributed Memory with Python bindings
+Requires-Python: >=3.8
+Requires-Dist: pybind11>=2.6.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: numpy>=1.20; extra == "dev"
